@@ -1,0 +1,8 @@
+[
+        {"id":1,"name":"Apple","price":10,"image":"apple.jpg","description":"Fresh and healthy fruit, 50g"},
+        {"id":2,"name":"Orange","price":7,"image":"orange.jpg","description":"Juicy oranges, 50g"},
+        {"id":3,"name":"Mango","price":11,"image":"mango.jpg","description":"Fresh mangoes 500g"},
+        {"id":4,"name":"Watermelon","price":8,"image":"watermelon.jpg","description":"Summer fruit, 2kg"},
+        {"id":5,"name":"Blueberries","price":9,"image":"blueberries.jpg","description":"Good for your eyes, 50g"},
+        {"id":6,"name":"Radish","price":15,"image":"radish.jpg","description":"Fresh radish, 1kg"}
+    ]
