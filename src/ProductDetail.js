@@ -7,7 +7,7 @@ import { useState,useEffect } from 'react'
 export default function ProductDetail() {
 
   let params = useParams()
-  let {productDetail,setProductDetail}=useState(null)
+  let [productDetail,setProductDetail]=useState(null)
 
   useEffect(()=>{fetch('https://hoyinleung.github.io/demoapi/react-basic-product.json')
         .then(response=>response.json())
